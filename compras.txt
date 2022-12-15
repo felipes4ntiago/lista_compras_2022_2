@@ -1,3 +1,6 @@
 arroz
 feijão
 leite
+cebola
+alface
+pimentão
