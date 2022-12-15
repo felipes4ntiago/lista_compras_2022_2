@@ -1,3 +1,6 @@
 arroz
 feijão
 leite
+Farinha
+manteiga
+cuscuz
