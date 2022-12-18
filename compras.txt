@@ -19,4 +19,8 @@ amaciante
 abacaxi
 laranja
 kiwi
+<<<<<<< HEAD
 café
+=======
+café
+>>>>>>> anacarolina
