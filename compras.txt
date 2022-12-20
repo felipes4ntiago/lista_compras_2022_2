@@ -19,9 +19,7 @@ amaciante
 abacaxi
 laranja
 kiwi
-<<<<<<< HEAD
 café
-=======
-café
->>>>>>> anacarolina
 achocolatado
+Suco de uva
+Pasta de amendoim
